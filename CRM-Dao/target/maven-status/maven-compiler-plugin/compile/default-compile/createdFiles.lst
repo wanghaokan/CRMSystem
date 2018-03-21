@@ -1,0 +1,3 @@
+org\aptech\shiro\crm\dao\CommonDao.class
+org\aptech\shiro\crm\dao\CrmUserDao.class
+org\aptech\shiro\crm\pojo\CrmUser.class
